@@ -61,7 +61,7 @@ while (victoria !== true) {
   mostrarTablero();
   
   const preguntaX = input('En qué casilla quieres la X ==> ');
-  console.log('DEBUG: Has seleccionado ' + preguntaX);
+  console.log('Has seleccionado ' + preguntaX);
   mostrarTablero();
   
 
